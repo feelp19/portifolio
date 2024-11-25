@@ -9,15 +9,15 @@
 </head>
 <body class="bg-slate-900 text-gray-100">
 
-<?php include('./components/header.php') ?>
+<?php include('../components/header.php') ?>
 <main class="mx-auto max-w-screen-lg min-h-20 px-3 py-6">
     <!-- hero -->
-    <?php include('./components/hero.php') ?>
+    <?php include('../components/hero.php') ?>
 
     <!-- projects -->
     <section id="projetos" class="space-y-3 py-6">
         <h2 class="text-2xl font-bold">Meus Projetos</h2>
-        <?php include('./components/projects.php') ?>
+        <?php include('../components/projects.php') ?>
     </section>
 </main>
 
